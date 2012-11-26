@@ -1,0 +1,23 @@
+﻿#strip{width:100%;margin-bottom:10px;background:#799407;padding:20px}
+.menu{list-style-type:none;margin-right:20px;float:right;padding:0 6px 6px}
+.menu a:link,a:visited{font-weight:700;color:#FFFFF3;background-color:#C8B934;text-align:center;text-decoration:none;text-transform:uppercase;padding:6px}
+.menu a:hover,a:active{background-color:#FFFFF3; color:#799407}
+.mid{list-style-type:none;padding:0}
+.mid a:link,a:visited{font-weight:700;color:#FFFFF3;background-color:#C8B934;text-align:center;text-decoration:none;text-transform:uppercase;padding:6px}
+.mid a:hover,a:active{background-color:#FFFFF3; color:#799407}
+.categories{width:100%;margin:5px 0 0 5px;padding:0}
+.categories li{width:40%;list-style-type:none;display:0;text-align:left;margin:0;padding:0 0 5px 15px;}
+.categories a:link,a:visited{color:#C8B934;}
+.categories a:hover,a:active{color:#799407;text-decoration:none;}
+#line{width:100%;padding-top:6px;background-color:#799407}
+#screen{width:100%;background-color:#D100A7}
+#feature{border:1px #F2F2F2 solid;text-align:center;padding:3px}
+.menu li,.mid li{display:inline}
+.admin_login_form_text_field{width:80px;}
+.admin_login_form_text_field {width:80px;padding:5px;}
+.admin_ibutton{background:#799407 ;width:80px;height:24px;text-align:center;color:#C8B934 ;border-style:none}
+.adminButton{background:#FFFFFF ;width:80px;height:24px;text-align:center;color:#000000 ;border-style:none}
+.styleone:link {text-decoration: underline; color: #799407; font-size:small;}
+.styleone:visited {text-decoration: underline; color: #799407; font-size:small}
+a img {border: none; }
+	
